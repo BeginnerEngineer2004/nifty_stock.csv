@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 # Load data
 @st.cache_data
 def load_data():
-    df = pd.read_csv("nifty_stock.csv")
+    df = pd.read_csv("Nifty_Stocks.csv")
     df['Date'] = pd.to_datetime(df['Date'])
     return df
 
