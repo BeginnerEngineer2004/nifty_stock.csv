@@ -5,7 +5,7 @@
 The Nifty Stocks Visualization Project focuses on analyzing and visualizing stock market data of companies listed under the Nifty index. The goal of this project is to provide insights into stock price trends, returns, and volatility across different categories and symbols using advanced data visualization techniques.
 
 
-:- Key Objectives:
+# Key Objectives:
 
 - To explore daily stock returns, volatility, and price movements across various categories.
 
@@ -16,7 +16,7 @@ The Nifty Stocks Visualization Project focuses on analyzing and visualizing stoc
 - To provide an interactive and comparative analysis of stocks for better financial decision-making.
   
 
-:- Visualizations Used:
+# Visualizations Used:
 
 1. Count Plots – Distribution of categories and stock counts.
 
@@ -38,7 +38,7 @@ The Nifty Stocks Visualization Project focuses on analyzing and visualizing stoc
 
 10. KDE Plots – Distribution of returns and volatility across categories.
 
-   :- Tools & Technologies:
+# Tools & Technologies:
 
 1. Python (Pandas, NumPy) – Data cleaning and analysis
 
